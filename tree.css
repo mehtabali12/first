@@ -1,0 +1,50 @@
+.tree{
+    text-align: center;
+    background-image: url(1.jpg);
+    font-family: 'Courier New', Courier, monospace;
+    background-repeat: no-repeat;
+    background-size: 2000px;
+    height: 500px;
+}
+.img img{
+    
+    border-radius: 15px;
+    margin-top: 10px;
+      
+}
+.cen {
+    width: 70%;
+    margin: auto;
+}
+.misso{
+    text-align: center;
+    
+}
+.abt{
+    display:flex;
+    background-color:green;
+}
+
+.if{
+    display: flex;
+    justify-content: right;
+}
+.fnt{
+    font-size: 15px;
+}
+.re{
+    padding: 10px solid red;
+    border-radius: 15px;
+}
+.frm{
+    background-image: url(4.jpg);
+    background-repeat: no-repeat;
+    background-size: 2000px;
+    height: 100px;
+    text-align: center;
+
+}
+.law{
+    display: flex;
+    font-size: 20px;
+}
